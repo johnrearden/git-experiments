@@ -6,4 +6,8 @@ Adding a line on github
 Added on feature branch
 Second commit on feature branch
 
+<<<<<<< HEAD
 Add a new line on main to conflict with feature2
+=======
+Added on feature2 branch
+>>>>>>> feature2
