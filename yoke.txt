@@ -5,3 +5,5 @@ Adding a line on github
 
 Added on feature branch
 Second commit on feature branch
+
+Add a new line on main to conflict with feature2
